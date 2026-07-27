@@ -151,7 +151,7 @@ scopeguard = "1"
 rayon = "1.11.0"
 parking_lot = "0.12.4"
 proxy-protocol = "0.5"
-jsonwebtoken = "9.3.1"
+jsonwebtoken = "10.3.0"
 quinn = "0.11.6"
 
 [profile.dev]
